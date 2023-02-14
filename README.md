@@ -28,9 +28,9 @@
 <a href="https://twitter.com/deyviddutra" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-deyviddutra-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<a href="https://linkedin.com/in/deyviddutra" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-deyviddutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
+<a href="https://instagram.com/deyvid_oficial1" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-deyviddutra-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
